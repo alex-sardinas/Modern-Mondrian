@@ -1,5 +1,5 @@
 body, html{
-    background-color: white;
+    background-color: black;
 }
 
 #painting{
@@ -9,7 +9,7 @@ body, html{
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 0px #8d8d8d;
+    box-shadow: 10px 10px 0px grey;
 }
 
 #toprow{
@@ -42,7 +42,7 @@ body, html{
 }
 
 #divider1{
-    height: 400px;
+    height: 300px;
     width: 10px;
 }
 
@@ -66,7 +66,52 @@ body, html{
     background-color: aqua
 }
 
+.lightblue{
+    background-color: lightblue;
+}
+
+#longbox{
+    height: 100px;
+    width: 180px;
+}
+
+#smallbox{
+    height: 100px;
+    width: 100px;
+}
+
+#bottomrow{
+    height: 100px;
+    width: 400px;
+}
+
+.lightgreen{
+    background-color: lightgreen;
+}
+
 #divider3{
+    height: 100px;
+    width: 10px;
+}
+
+.midnightblue{
+    background-color: midnightblue;
+}
+
+.margin-top{
+    margin-top: 45px;
+}
+
+#smallboxx{
+    height: 100px;
+    width: 90px;
+}
+
+.purple{
+    background-color: purple;
+}
+
+#divider4{
     height: 10px;
     width: 100px;
 }
